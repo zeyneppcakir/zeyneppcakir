@@ -67,10 +67,21 @@ A Flutter-based personnel tracking application developed during my software engi
 ---
 
 ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeyneppcakir&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneppcakir&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zeyneppcakir&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Zeynep's GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneppcakir&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Zeynep's most used languages"
+  />
+</p>
 </p>
 
 ---
