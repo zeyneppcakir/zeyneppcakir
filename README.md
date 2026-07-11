@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Zeynep Çakır 👋
 
-<!--
-**zeyneppcakir/zeyneppcakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate from Düzce University
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate passionate about Artificial Intelligence, Mobile Development, and Backend Technologies. I enjoy building practical applications that solve real-world problems and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 📄 AI Document Analyzer *(In Progress)*
+An AI-powered document analysis application built with Streamlit, PyMuPDF, and Google Gemini API. It extracts text from PDF files and provides intelligent analysis and summaries.
+
+**Tech Stack:** Python, Streamlit, PyMuPDF, Gemini API
+
+---
+
+### 💻 CodeAtlas
+My graduation project. An AI-assisted source code analysis platform that helps developers analyze and understand software projects using Large Language Models.
+
+**Tech Stack:** Flutter, FastAPI, Firebase, Ollama, Gemini
+
+---
+
+### 📱 Personnel Tracking System
+A Flutter-based personnel tracking application developed during my software engineering internship.
+
+**Tech Stack:** Flutter, REST API
+
+---
+
+## 🛠️ Technologies
+
+- Python
+- Flutter
+- Dart
+- FastAPI
+- Firebase
+- Java
+- C#
+- SQL
+- Git & GitHub
+- Streamlit
+
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Backend Development
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/zeynep-cakir-eng
