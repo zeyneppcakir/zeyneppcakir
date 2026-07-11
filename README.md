@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Graduate** from Düzce University
 
-I'm passionate about Artificial Intelligence, Mobile Development, and Backend Development. I enjoy building real-world software solutions and continuously improving my technical skills.
+I'm a Computer Engineering graduate passionate about Artificial Intelligence, Mobile Development, and Backend Development. I enjoy building practical software solutions, exploring new technologies, and continuously improving my technical skills.
 
 ---
 
@@ -10,9 +10,9 @@ I'm passionate about Artificial Intelligence, Mobile Development, and Backend De
 
 - 🎓 Computer Engineering Graduate from Düzce University
 - 🤖 Passionate about Artificial Intelligence and Large Language Models (LLMs)
-- 📱 Interested in Mobile Application Development
-- ⚙️ Currently developing AI-powered software solutions with Python, Streamlit and FastAPI
-- 🌱 Currently improving my knowledge in AI, Backend Development and RAG systems
+- 💻 Interested in Backend Development and AI-powered applications
+- 📱 Experienced in Mobile Application Development with Flutter
+- 🌱 Currently learning Retrieval-Augmented Generation (RAG), LLM applications, and modern AI technologies
 
 ---
 
@@ -20,17 +20,17 @@ I'm passionate about Artificial Intelligence, Mobile Development, and Backend De
 
 ### 📄 AI Document Analyzer *(Currently Developing)*
 
-An AI-powered document analysis application built with **Streamlit**, **PyMuPDF**, and **Google Gemini API**. The application extracts text from PDF files and provides intelligent summaries and document insights.
+An AI-powered document analysis application that extracts text from PDF documents and provides intelligent summaries and document insights using Google Gemini.
 
-**Tech Stack:** Python • Streamlit • PyMuPDF • Gemini API
+**Tech Stack:** Python • Streamlit • PyMuPDF • Google Gemini API
 
 ---
 
 ### 💻 CodeAtlas
 
-My graduation project. An AI-assisted source code analysis platform that helps developers analyze and understand software projects using Large Language Models.
+My Computer Engineering graduation project. An AI-assisted source code analysis platform that helps developers analyze, understand, and document software projects using Large Language Models.
 
-**Tech Stack:** Flutter • FastAPI • Firebase • Ollama • Gemini
+**Tech Stack:** Flutter • FastAPI • Firebase • Ollama • Google Gemini
 
 ---
 
@@ -50,6 +50,16 @@ A Flutter-based personnel tracking application developed during my software engi
 
 ---
 
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Backend Development
+- FastAPI & AI Integrations
+
+---
+
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/zeynep-cakir-eng
@@ -59,8 +69,8 @@ A Flutter-based personnel tracking application developed during my software engi
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeyneppcakir&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneppcakir&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeyneppcakir&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneppcakir&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
